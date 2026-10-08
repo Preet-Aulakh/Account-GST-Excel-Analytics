@@ -56,7 +56,7 @@ If you have any questions about this project or would like to collaborate on dat
 
 - **👤 Name:** Manpreet Singh
 - **📧 Gmail:** preetaulakh8756@gmail.com
-- **🖥️ GitHub Profile:** [://github.com](https://://github.com)
+- **🖥️ GitHub Profile:** 
 - **💼 LinkedIn:** 
 
 
