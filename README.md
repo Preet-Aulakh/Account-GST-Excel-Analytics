@@ -3,8 +3,8 @@
 
 ---
 
-## 📸 Executive Dashboard Preview
-![Excel Dashboard Screenshot](dashboard.png)
+## 📸  Executive Dashboard Preview
+![Excel Dashboard Screenshot](Dashboard.png)
 
 ---
 
