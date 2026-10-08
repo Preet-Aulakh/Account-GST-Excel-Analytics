@@ -1,4 +1,4 @@
-# 🇮🇳 Indian GST & Financial Sales Performance Dashboard
+# Indian GST & Financial Sales Performance Dashboard
 > **An Advanced Data Analytics & Financial Compliance Project in Microsoft Excel**
 
 ---
@@ -47,5 +47,16 @@ To accurately mirror Indian accounting standards, the backend database utilizes 
 ## 🚀 Interactive Features
 * **Timeline Filter:** Click on years or quarters to watch the entire dashboard recalculate instantly.
 * **State Slicer:** Filter by specific business regions to drill down into localized tax obligations.
+
+---
+---
+
+## 🤝 Contact & Connect
+If you have any questions about this project or would like to collaborate on data analytics initiatives, feel free to reach out!
+
+- **👤 Name:** Manpreet Singh
+- **📧 Gmail:** preetaulakh8756@gmail.com
+- **🖥️ GitHub Profile:** [://github.com](https://://github.com)
+- **💼 LinkedIn:** 
 
 
