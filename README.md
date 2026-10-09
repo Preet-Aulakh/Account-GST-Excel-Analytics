@@ -13,6 +13,12 @@ This project showcases a production-ready **Financial Sales Dashboard** built us
 
 ---
 
+## 📌 Software & Tools 
+-**Accounting Software:** Tally & Busy
+- **Microsoft Excel:** Data analysis, power Query, Formule, Pivot Table & Dashboard.
+
+---
+
 ## 🛠️ Tech Stack & Analytical Framework
 
 | Phase | Framework / Feature Used | Key Actions Delivered |
@@ -28,7 +34,7 @@ This project showcases a production-ready **Financial Sales Dashboard** built us
 
 To accurately mirror Indian accounting standards, the backend database utilizes these key calculated fields:
 
-1. **Indian Fiscal Year (April - March Cycle):**
+1. **Indian Financial Year (April - March Cycle):**
    ```excel
    =IF(MONTH(Invoice_Date)>=4, YEAR(Invoice_Date) & "-" & YEAR(Invoice_Date)+1, YEAR(Invoice_Date)-1 & "-" & YEAR(Invoice_Date))
    ```
@@ -57,6 +63,6 @@ If you have any questions about this project or would like to collaborate on dat
 - **👤 Name:** Manpreet Singh
 - **📧 Gmail:** preetaulakh8756@gmail.com
 - **🖥️ GitHub Profile:** [Preet-Aulakh](https://github.com)
-- **💼 LinkedIn:** 
+  
 
 
