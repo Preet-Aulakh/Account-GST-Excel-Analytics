@@ -14,7 +14,7 @@ This project showcases a production-ready **Financial Sales Dashboard** built us
 ---
 
 ## 📌 Software & Tools 
--**Accounting Software:** Tally & Busy
+- **Accounting Software:** Tally & Busy
 - **Microsoft Excel:** Data analysis, power Query, Formule, Pivot Table & Dashboard.
 
 ---
