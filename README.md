@@ -1,4 +1,4 @@
-# Indian GST & Financial Sales Performance Dashboard
+# GST & Financial Sales Performance Dashboard
 > **An Advanced Data Analytics & Financial Compliance Project in Microsoft Excel**
 
 ---
