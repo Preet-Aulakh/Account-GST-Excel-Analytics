@@ -10,7 +10,7 @@
 
 ## 🔗 Live Interactive Dashboard
 
-👉 **[Click Here to View the Live Production Dashboard]()**  
+👉 **[Click Here to View the Live Production Dashboard](https://datastudio.google.com/reporting/70c5c107-b8db-4220-a405-363766892b9e)**  
 *(This link provides full interactive access to filters, carrier segmentations, and dynamic business metrics live on Looker Studio).*
 
 ---
