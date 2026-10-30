@@ -8,6 +8,13 @@
 
 ---
 
+## 🔗 Live Interactive Dashboard
+
+👉 **[Click Here to View the Live Production Dashboard]()**  
+*(This link provides full interactive access to filters, carrier segmentations, and dynamic business metrics live on Looker Studio).*
+
+---
+
 ## 📌 Project Overview
 This project showcases a production-ready **Financial Sales Dashboard** built using a simulated dataset of **1,500+ transactional records**. The core objective is to analyze regional sales distribution across India while automatedly auditing **GST Compliance (CGST, SGST, IGST)** based on statutory tax slabs.
 
